@@ -1,6 +1,6 @@
 {  
     "display_name": "OK Assistant Plugin",  
-    "author": "您的名字",  
+    "author": "doomnaiad",  
     "version": "1.0.0",  
     "description": "自动在聊天补全模式下添加一个名为'ok'的AI助手角色",  
     "js": "index.js",  
