@@ -3,7 +3,8 @@
   "author": "doomnaiad-320", 
   "version": "1.0.0",
   "description": "自动在聊天补全模式下添加一个名为'ok'的AI助手角色到SillyTavern。",
-  "js": "script.js",
+  "js": "index.js",
   "css": null,
   "requires": []
 }
+index
