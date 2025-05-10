@@ -1,0 +1,8 @@
+{
+  "name": "sillytavern-ok-assistant-plugin",
+  "version": "1.0.0",
+  "description": "自动在聊天补全模式下添加一个名为 'OK Assistant' 的AI助手角色到SillyTavern。",
+  "main": "script.js",
+  "author": "Cline (AI Software Engineer)",
+  "license": "MIT"
+}
